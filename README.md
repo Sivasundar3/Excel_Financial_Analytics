@@ -1,5 +1,5 @@
 ## Excel_Financial_Analytics
- In this project, I created 4 Financial Reports In Excel Using PowerQuery, Pivot Table and  Power Pivot. For formatting with colour scale , I used conditional formattiing
+ In this project, I created 4 Financial Reports for AtliQ Hardwares in Excel Using PowerQuery, Pivot Table and  Power Pivot. For formatting with colour scale , I used conditional formattiing
 
 ## Report 1
 ![Reports](https://github.com/Sivasundar3/Excel_Financial_Analytics/blob/main/Business%20Report%201.jpg)
